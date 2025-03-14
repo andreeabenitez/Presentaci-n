@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andrea 👋
 
-Soy una desarrolladora apasionadoa por la tecnología y el aprendizaje continuo.
+Soy una desarrolladora apasionada por la tecnología y el aprendizaje continuo.
 
 ## 🌱 Actualmente estoy aprendiendo:
 - Estudiante del Málaga 42
